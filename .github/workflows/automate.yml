@@ -9,6 +9,8 @@ on:
 jobs:
   automate-changes:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Branch
         uses: actions/checkout@v2
