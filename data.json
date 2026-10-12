@@ -3545,7 +3545,7 @@
     "code": "CA",
     "region": "Northwest Territories",
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -3599,7 +3599,7 @@
     "code": "CA",
     "region": "Yukon",
     "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -4477,7 +4477,7 @@
     "districts": "Hyrynsalmi, Kajaani, Kuhmo, Paltamo, Puolanka, Ristijärvi, Sotkamo, Suomussalmi, Vaala",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4487,7 +4487,7 @@
     "districts": "Dalsbruk, Lohja, Loimaa, Naantali, Rauma, Salo, Turku",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4497,7 +4497,7 @@
     "districts": "Kotka, Kouvola, Hamina, Pyhtää, Virolahti, Miehikkälä, Anjala, Kuusankoski, Elimäki, Jaala, Valkeala, Karhula, Huruksela, Inkeroinen, Sippola, Koria, Juurikorpi, Metsäkylä, Tavastila, Ravijoki",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4507,7 +4507,7 @@
     "districts": "Kihniö, Parkano, Pori, Tampere",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4517,7 +4517,7 @@
     "districts": "Pori, Rauma, Harjavalta, Ulvila, Kokemäki, Nakkila, Eurajoki, Eura, Huittinen, Kankaanpää, Merikarvia, Pomarkku, Säkylä, Siikainen, Jämijärvi, Kiukainen, Luvia, Eurajoki, Kullaan, Pyhäranta, Köyliö, Honkajoki, Pomarkku, Karvia, Eura, Lavia, Pomarkku",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4527,7 +4527,7 @@
     "districts": "Jyväskylä, Jämsä, Äänekoski, Keuruu, Laukaa, Saarijärvi, Viitasaari, Hankasalmi, Joutsa, Karstula, Kinnula, Kivijärvi, Kyyjärvi, Luhanka, Multia, Petäjävesi, Pihtipudas, Toivakka, Uurainen, Konnevesi",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4537,7 +4537,7 @@
     "districts": "Hämeenlinna, Forssa, Janakkala, Riihimäki, Hämeenkoski, Tammela, Somero, Ypäjä, Loppi, Pälkäne",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4547,7 +4547,7 @@
     "districts": "Mikkeli, Pieksämäki, Savonlinna, Hirvensalmi, Kangasniemi, Mäntyharju, Puumala, Juva, Enonkoski, Rantasalmi, Sulkava, Joroinen, Pertunmaa, Heinävesi",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4557,7 +4557,7 @@
     "districts": "Kuopio, Iisalmi, Varkaus, Siilinjärvi, Lapinlahti, Kiuruvesi, Suonenjoki, Vieremä, Pielavesi, Keitele, Tervo, Rautalampi, Sonkajärvi, Vesanto, Rautavaara, Kaavi, Tuusniemi",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4567,7 +4567,7 @@
     "districts": "Vaasa, Kokkola, Pietarsaari, Närpiö, Kristiinankaupunki, Uusikaarlepyy, Kauhava, Laihia, Isokyrö, Korsnäs, Maalahti, Mustasaari, Vöyri, Pedersöre, Luoto, Kruunupyy",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4577,7 +4577,7 @@
     "districts": "Oulu, Rovaniemi, Kempele, Kemi, Tervola, Liminka, Ii, Ylivieska, Kestilä, Alavieska, Nivala, Pudasjärvi, Posio, Taivalkoski, Paltamo, Kuusamo, Vihanti, Kiviharju",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4587,7 +4587,7 @@
     "districts": "Kokkola, Kannus, Toholampi, Halsua, Lestijärvi, Kaustinen, Veteli, Perho",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4597,7 +4597,7 @@
     "districts": "Enontekiö, Inari, Kittilä, Kolari, Muonio, Pelkosenniemi, Pello, Posio, Ranua, Rovaniemi, Salla, Savukoski, Simo, Sodankylä, Tervola, Tornio, Utsjoki, Ylitornio",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4607,7 +4607,7 @@
     "districts": "Helsinki, Espoo, Vantaa, Kauniainen, Hyvinkää, Lohja, Porvoo, Raasepori, Järvenpää, Tuusula, Kerava, Kirkkonummi, Nurmijärvi, Mäntsälä, Pornainen, Sipoo, Vihti, Inkoo, Hanko, Siuntio, Lapinjärvi",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4617,7 +4617,7 @@
     "districts": "Asikkala, Hartola, Heinola, Hollola, Kärkölä, Lahti, Orimattila, Padasjoki",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4627,7 +4627,7 @@
     "districts": "Ikaalinen, Ilmajoki, Isojoki, Jalasjärvi, Jurva, Kankaanpää, Karvia, Kauhajoki, Kauhava, Kuortane, Kurikka, Laihia, Lappajärvi, Lapua, Lavia, Luoto, Merikarvia, Närpiö, Pedersöre, Pietarsaari, Seinäjoki, Soini, Teuva, Vaasa, Veteli, Vimpeli, Ähtäri",
     "publish": "Yes",
     "datestart": "2026-04-08T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "France",
@@ -6764,7 +6764,7 @@
     "districts": "Potenza, Matera, Maratea, Policoro, Melfi, Sala Consilina, Sapri, Bernalda, Gravina in Puglia, Stigliano, Calitri, Tursi, Lauria, Moliterno, Muro Lucano,",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6774,7 +6774,7 @@
     "districts": "Como, Lecco, Mantova, Sondrio, Varese, Crema, Colico Piano, Bormio, Milano, Mantova",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6784,7 +6784,7 @@
     "districts": "Reggio Emilia, Modena, Bologna, Ferrara, Carrara, Borgo Val di Taro, Langhirano, Chiavari, Pavullo Nel Frignano, Castelnuovo di Garfagnana, Forli,",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6794,7 +6794,7 @@
     "districts": "Avellino, Benevento, Caserta, Napoli, Castel Volturno, Salerno, Minturno, Agropoli, Battipaglia, Sala Consilina, Torre del Greco, Vallo della Lucania, Sapri, Eboli, Lioni, Ariano Irpino, Calitri, Venafro, Isola di Ischia",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6804,7 +6804,7 @@
     "districts": "Chieti, L'Aquila, Pescara, Teramo, Montesilvano, Lanciano, Avezzano, San Benedetto del Tronto, Sulmona, Vasto, Campobasso, Castel di Sangro",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6814,7 +6814,7 @@
     "districts": "Frosinone, Latina, Rieti, Roma, Viterbo,Fiano Romano, San Cesareo, Ferentino, Terracina, Sora, Formia, Nettuno, Civitavecchia, Cassino, Tarquinia, Montefiascone, Ponza, Ventotene",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6824,7 +6824,7 @@
     "districts": "Ancona, Ascoli Piceno, Macerata, Pesaro, Porto Sant'Elpidio, San Benedetto del Tronto, Senigallia, Iesi, Fabriano, Rimini, Camerino, San Severino Marche, Norcia",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6834,7 +6834,7 @@
     "districts": "Belluno, Padova, Venezia, Verona, Vicenza, Legnago, Vittorio Veneto,",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6844,7 +6844,7 @@
     "districts": "Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Prato, Siena, Capannori, Orbetello, Follonica, Portoferraio, Piombino, Rosignano Solvay, Castiglione del Lago, Empoli, Sinalunga, Pitigliano, Cecina, Montalto di Castro, Montepulciano, Sansepolcro, Valentano, Colle di Val d'Elsa, Porto Santo Stefano, Gorgona Scalo, Porto Ercole, Marina di Campo, Capraia Isola, San Vincenzo",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6854,7 +6854,7 @@
     "districts": "Alessandria, Asti, Biella, Cuneo, Torino, Alba, Ivrea, Fossano, Acqui Terme",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6864,7 +6864,7 @@
     "districts": "Ragusa, Siracusa, Trapani, Gela, Marsala, Castelvetrano, Alcamo, Modica, Cefalù, Lampedusa, Lipari, Pantelleria, Ustica, Messina, Palermo,",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6874,7 +6874,7 @@
     "districts": "Altamura, Bari, Barletta-Andria, Brindisi, Foggia, Lecce, Taranto, Nardò, Maglie, Casarano, Monopoli, Ruffano, Martina Franca, Gallipoli, Francavilla Fontana, San Severo, Rodi Garganico, Altamura, Manduria, Cerignola, Gioia del Colle, Ostuni, Manfredonia, Corato, Fasano, Lucera, Melfi, San Bartolomeo in Galdo, Villaggio San Domino",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6884,7 +6884,7 @@
     "districts": "Bolzano, Trento, Brunico, Merano, Rovereto, Cortina d'Ampezzo, Bressanone, Vipiteno, San Candido",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6894,7 +6894,7 @@
     "districts": "Oristano, San Salvatore, Carloforte, Macomer, Marcheddì, Iglesias, Bau, Candiazzus, Masua, Nebida, San Nicolò, Carbonia, Capoterra",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6904,7 +6904,7 @@
     "districts": "Pordenone, Tolmezzo, Gemona, Spilimbergo, Tarvisio",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6914,7 +6914,7 @@
     "districts": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia, Siderno, Palmi, Pizzo, Scalea, Lamezia Terme, Corigliano Calabro, Bovalino, Cirò Marina. Castrovillari, Serra San Bruno",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6924,7 +6924,7 @@
     "districts": "Perugia, Terni, Gubbio, Città di Castello, Foligno, Marsciano, Norcia, Fabriano, Città della Pieve,",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6934,7 +6934,7 @@
     "districts": "Rapallo, Genova, Sestri Levante, Sanremo, Imperia, Finale Ligure, Savona, La Spezia",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -6944,7 +6944,7 @@
     "districts": "Campobasso, Termoli, Isernia, San Salvo",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
-    "dateend": "2026-10-01T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9791,7 +9791,7 @@
     "districts": "Iași, Onești, Suceava, Botoșani, Bacău, Moinești, Dorohoi, Pașcani, Piatra Neamț, Roman, Vaslui, Bârlad, Roman, Câmpulung Moldovenesc, Fălticeni, Rădăuți, Vatra Dornei, Bârlad, Huși, Vaslui",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9801,7 +9801,7 @@
     "districts": "Miercurea Ciuc, Buzău, Brăila, Focșani, Râmnicu Sărat, Constanța, Mangalia, Medgidia, Galați, Tecuci, Tulcea, Adjud",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9811,7 +9811,7 @@
     "districts": "Târgoviște, Câmpulung, Curtea de Argeș, Pitești, Călărași, Oltenița, Moreni, Giurgiu, Fetești, Slobozia, Urziceni, Câmpina, Ploiești, Alexandria, Roșiorii de Vede, Turnu Măgurele",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9821,7 +9821,7 @@
     "districts": "Băilești, Calafat, Craiova, Motru, Târgu Jiu, Drobeta-Turnu Severin, Orșova, Caracal, Slatina, Râmnicu Vâlcea, Drăgășani",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9831,7 +9831,7 @@
     "districts": "Timișoara, Lugoj, Arad, Caransebeș, Reșița, Brad, Deva, Hunedoara, Lupeni, Orăștie, Petroșani, Vulcan",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9841,7 +9841,7 @@
     "districts": "Cluj-Napoca, Baia Mare, Beiuș, Marghita, Oradea, Salonta, Bistrița, Câmpia Turzii, Dej, Gherla, Turda, Sighetu Marmației, Satu Mare, Carei, Zalău",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9851,7 +9851,7 @@
     "districts": "Sibiu, Făgăraș, Mediaș, Brașov, Aiud, Alba Iulia, Târgu Mureș, Blaj, Sebeș, Codlea, Săcele, Sfântu Gheorghe, Târgu Secuiesc, Gheorgheni, Miercurea Ciuc, Odorheiu Secuiesc, Toplița, Reghin, Sighișoara, Târnăveni,",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9861,7 +9861,7 @@
     "districts": "Bucharest, Periș, Ciolpani, Gruiu, Nuci, Snagov, Grădiștea, Moara Vlăsiei, Balotești, Corbeanca, Dascălu, Petrăchioaia, Otopeni, Tunari, Ștefăneștii de Jos, Afumați, Voluntari, Găneasa, Mogoșoaia, Buftea, Chitila, Dragomirești-Vale, Chiajna, Dobroești, Pantelimon, Brănești, Ciorogârla, Domnești, Clinceni, Bragadiru, Popești-Leordeni, Glina, Cernica, Cornetu, Măgurele, Jilava, Berceni, Dărăști-Ilfov, 1 Decembrie, Vidra",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9871,7 +9871,7 @@
     "districts": "Alexandria, Roșiorii de Vede, Turnu Măgurele",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9881,7 +9881,7 @@
     "districts": "Timișoara, Lugoj, Arad, Caransebeș, Reșița, Brad, Deva, Hunedoara, Lupeni, Orăștie, Petroșani, Vulcan",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9891,7 +9891,7 @@
     "districts": "Arad",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9901,7 +9901,7 @@
     "districts": "Arad",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9911,7 +9911,7 @@
     "districts": "Oradea, Marghita, Beiuș, Salonta",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9921,7 +9921,7 @@
     "districts": "Bucharest",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9931,7 +9931,7 @@
     "districts": "Constanța, Mangalia, Medgidia",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9941,7 +9941,7 @@
     "districts": "Babadag, Navodari",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9951,7 +9951,7 @@
     "districts": "Brăila",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9961,7 +9961,7 @@
     "districts": "Câmpulung Moldovenesc, Fălticeni, Rădăuți, Suceava, Vatra Dornei",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9971,7 +9971,7 @@
     "districts": "Hârlău, Pașcani, Iasi, Valea Lupului",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9981,7 +9981,7 @@
     "districts": "Bacău, Moinești, Onești",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9991,7 +9991,7 @@
     "districts": "Botoșani, Darabani, Dorohoi",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10001,7 +10001,7 @@
     "districts": "Bârlad, Huși, Vaslui",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10011,7 +10011,7 @@
     "districts": "Bistrița",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10021,7 +10021,7 @@
     "districts": "Brad, Deva, Lupeni, Hunedoara, Petroșani, Orăștie, Vulcan",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10031,7 +10031,7 @@
     "districts": "Brașov, Făgăraș, Săcele, Codlea",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10041,7 +10041,7 @@
     "districts": "Sfântu Gheorghe, Târgu Secuiesc",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10051,7 +10051,7 @@
     "districts": "Câmpina, Ploiești",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10061,7 +10061,7 @@
     "districts": "Călărași, Oltenița",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10071,7 +10071,7 @@
     "districts": "Târgoviște, Moreni",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10081,7 +10081,7 @@
     "districts": "Galați, Tecuci",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10091,7 +10091,7 @@
     "districts": "Târgu Jiu, Motru",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10101,7 +10101,7 @@
     "districts": "Giurgiu",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10111,7 +10111,7 @@
     "districts": "Fetești, Slobozia, Urziceni",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10121,7 +10121,7 @@
     "districts": "Miercurea Ciuc, Gheorgheni, Odorheiu Secuiesc, Toplița",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10131,7 +10131,7 @@
     "districts": "Popești-Leordeni, Voluntari, Chiajna, Bragadiru, Pantelimon, Buftea, Otopeni",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10141,7 +10141,7 @@
     "districts": "Alba Iulia, Aiud, Blaj, Sebeș",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10151,7 +10151,7 @@
     "districts": "Buzău, Râmnicu Sărat",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10161,7 +10161,7 @@
     "districts": "Cluj-Napoca, Câmpia Turzii, Dej, Gherla, Turda",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10171,7 +10171,7 @@
     "districts": "Craiova, Calafat, Băilești",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10181,7 +10181,7 @@
     "districts": "Câmpulung Moldovenesc, Fălticeni, Rădăuți, Suceava, Vatra Dornei",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10191,7 +10191,7 @@
     "districts": "Baia Mare, Sighetu Marmației - border with Ukraine",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10201,7 +10201,7 @@
     "districts": "Drobeta-Turnu Severin, Orșova",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10211,7 +10211,7 @@
     "districts": "Slatina, Caracal",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10221,7 +10221,7 @@
     "districts": "Adjud, Focșani",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10231,7 +10231,7 @@
     "districts": "Hârlău, Pașcani",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10241,7 +10241,7 @@
     "districts": "Reșița, Caransebeș",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10251,7 +10251,7 @@
     "districts": "Pitești, Câmpulung, Curtea de Argeș",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10261,7 +10261,7 @@
     "districts": "Oradea, Marghita, Beiuș, Salonta",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10271,7 +10271,7 @@
     "districts": "Piatra Neamț, Roman",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10281,7 +10281,7 @@
     "districts": "Zalău",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10291,7 +10291,7 @@
     "districts": "Sibiu, Mediaș, Agnita, Avrig, Cisnădie, Dumbrăveni, Tălmaciu, Ocna Sibiului, Miercurea Sibiului, Copșa Mică.",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10301,7 +10301,7 @@
     "districts": "Târgu Mureș, Reghin, Sighișoara, Târnăveni",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -10311,7 +10311,7 @@
     "districts": "Tulcea - border with Ukraine",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-14T07:00:00.000Z"
   },
   {
     "country": "Russia",
@@ -10830,7 +10830,7 @@
     "districts": "Stockholm, Solna, Sundbyberg, Täby, Nacka, Huddinge, Värmdö, Danderyd, Botkyrka, Lidingö, Haninge, Järfälla, Upplands Väsby, Vallentuna, Södertälje, Ekerö, Nynäshamn, Österåker, Tyresö, Skarpnäck",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10840,7 +10840,7 @@
     "districts": "Gothenburg, Borås, Skövde, Uddevalla, Alingsås, Partille, Kungälv, Trollhättan, Lerum, Stenungsund, Mölndal, Vänersborg, Lidköping, Åmål, Lerum, Tanumshede, Kungsbacka, Strömstad, Lysekil, Sävedalen",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10850,7 +10850,7 @@
     "districts": "Linköping, Norrköping, Motala, Finspång, Söderköping, Vadstena, Mjölby, Boxholm, Åtvidaberg, Valdemarsvik, Kinda, Söderköping, Mjölby, Åtvidaberg, Valdemarsvik, Ödeshög, Söderköping, Tranås, Ödeshög, Mantorp",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10860,7 +10860,7 @@
     "districts": "Malmö, Helsingborg, Lund, Kristianstad, Hässleholm, Ystad, Landskrona, Eslöv, Ängelholm, Simrishamn, Kävlinge, Staffanstorp, Trelleborg, Höör, Örkelljunga, Klippan, Perstorp, Svalöv, Sjöbo, Åstorp",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10870,7 +10870,7 @@
     "districts": "Jönköping, Huskvarna, Vetlanda, Nässjö, Värnamo, Mullsjö, Gislaved, Tranås, Eksjö, Anderstorp, Gränna, Sävsjö, Skillingaryd, Jönköping, Värnamo, Gislaved, Nässjö, Tranås, Habo, Tenhult",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10880,7 +10880,7 @@
     "districts": "Halmstad, Varberg, Kungsbacka, Falkenberg, Laholm, Hylte, Onsala, Vinberg, Särö, Trönninge, Veddige, Hyltebruk, Åsa, Torup, Källsjö, Oskarström, Steninge, Tvååker, Getinge, Slöinge",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10890,7 +10890,7 @@
     "districts": "Eskilstuna, Katrineholm, Nyköping, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Söderköping, Nyköping, Eskilstuna, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Katrineholm, Flen",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10900,7 +10900,7 @@
     "districts": "Karlstad, Arvika, Kristinehamn, Filipstad, Hagfors, Munkfors, Torsby, Sunne, Säffle, Kil, Ekshärad, Grums, Väse, Molkom, Filipstad, Arvika, Kristinehamn, Torsby, Sunne, Munkfors",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10910,7 +10910,7 @@
     "districts": "Uppsala, Enköping, Västerås, Sala, Bålsta, Knivsta, Tierp, Heby, Östhammar, Håbo, Sigtuna, Almunge, Örsundsbro, Gimo, Uppsala, Bälinge, Vänge, Hammarby, Sävja, Faringe",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10920,7 +10920,7 @@
     "districts": "Gävle, Hudiksvall, Bollnäs, Ljusdal, Söderhamn, Ockelbo, Sandviken, Nordanstig, Älvkarleby, Hofors, Lingbo, Arbrå, Edsbyn, Iggesund, Bergsjö, Hedesunda, Järvsö, Norrala, Ockelbo, Ljusdal",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10930,7 +10930,7 @@
     "districts": "Falun, Borlänge, Ludvika, Mora, Rättvik, Avesta, Hedemora, Säter, Orsa, Vansbro, Leksand, Gagnef, Malung, Mora, Borlänge, Ludvika, Rättvik, Avesta, Säter, Falun",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10940,7 +10940,7 @@
     "districts": "Växjö, Ljungby, Alvesta, Tingsryd, Markaryd, Älmhult, Älmhult, Uppvidinge, Lessebo, Moheda, Lammhult, Hovmantorp, Rottne, Braås, Växjö, Ljungby, Alvesta, Tingsryd, Markaryd",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10950,7 +10950,7 @@
     "districts": "Örebro, Karlskoga, Kumla, Hallsberg, Nora, Lekeberg, Askersund, Degerfors, Lindesberg, Örebro, Karlskoga, Kumla, Hallsberg, Nora, Lekeberg, Askersund, Degerfors, Lindesberg, Örebro, Kumla",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10960,7 +10960,7 @@
     "districts": "Västerås, Sala, Köping, Hallstahammar, Surahammar, Arboga, Fagersta, Västerås, Sala, Köping, Hallstahammar, Surahammar, Arboga, Fagersta, Västerås, Hallstahammar, Köping, Surahammar, Fagersta",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10970,7 +10970,7 @@
     "districts": "Visby, Slite, Roma, Hemse, Klintehamn, Fårö, Västergarn, Grogarn, Burs, Östergarn, Kräklingbo, Källunge, Burgsvik, Sproge, Ganthem, Halla, Lärbro, Själa, Väskinde, Lummelunda",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10980,7 +10980,7 @@
     "districts": "Luleå, Boden, Kiruna, Piteå, Haparanda, Gällivare, Kalix, Jokkmokk, Överkalix, Arjeplog, Övertorneå, Älvsbyn, Haparanda, Luleå, Boden, Kiruna, Piteå, Gällivare, Kalix, Jokkmokk",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -10990,7 +10990,7 @@
     "districts": "Sundsvall, Härnösand, Örnsköldsvik, Kramfors, Sollefteå, Timrå, Ånge, Härnösand, Örnsköldsvik, Kramfors, Sollefteå, Sundsvall, Timrå, Ånge, Kramfors, Örnsköldsvik, Sollefteå, Timrå, Härnösand, Sundsvall",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -11000,7 +11000,7 @@
     "districts": "Östersund, Krokom, Strömsund, Åre, Hammerdal, Svenstavik, Bräcke, Funäsdalen, Offerdal, Hede, Sveg, Krokom, Strömsund, Åre, Hammerdal, Svenstavik, Bräcke, Funäsdalen, Offerdal, Hede",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -11010,7 +11010,7 @@
     "districts": "Umeå, Skellefteå, Lycksele, Vilhelmina, Robertsfors, Bjurholm, Nordmaling, Åsele, Vännäs, Storuman, Dorotea, Malå, Norsjö, Sorsele, Bureå, Holmön, Sikeå, Sävar, Bjästa, Örnsköldsvik",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -11020,7 +11020,7 @@
     "districts": "Kalmar, Västervik, Oskarshamn, Nybro, Borgholm, Mörbylånga, Högsby, Öland, Färjestaden, Löttorp, Mönsterås, Lindsdal, Torsås, Hultsfred, Kristvallabrunn, Södra Vi, Tvärskog, Högsby, Alsterbro, Mörbylånga",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -11030,7 +11030,7 @@
     "districts": "Karlskrona, Ronneby, Olofström, Sölvesborg, Mörrum, Listerby, Åryd, Hällaryd, Kallinge, Asarum, Tving, Lönsboda, Killeberg, Torhamn, Fridlevstad, Sölvesborg, Eringsboda, Bräkne-Hoby, Hoby, Tvinge",
     "publish": "Yes",
     "datestart": "2026-04-15T07:00:00.000Z",
-    "dateend": "2026-10-30T07:00:00.000Z"
+    "dateend": "2026-10-20T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -11923,7 +11923,7 @@
     "districts": "Osceola, Dickinson, Emmet, Palo Alto, Kossuth, Pocahontas, Humboldt, Calhoun, Webster, Woodbury, Ida, Crawford, Monona, Plymouth, Cherokee, Buena Vista, Sac, Carroll, Cerro Gordo, Worth, Mitchell, Floyd, Howard, Chickasaw, Winneshiek, Clayton, Fayette, Dubuque, Jackson, Jones, Delaware, Clinton, Scott, Cedar, Johnson, Iowa, Benton, Linn, Lee, Davis, Wapello, Jefferson, Keokuk, Mahaska, Washington, Muscatine, Tama, Marshall, Hardin, Grundy, Hamilton, Wright, Boone, Greene, Webster",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11931,7 +11931,7 @@
     "svspc": "SV",
     "region": "Montana",
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11943,7 +11943,7 @@
     "districts": "Rockingham, Strafford, Sullivan, Grafton, Coos, Carroll",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11951,7 +11951,7 @@
     "svspc": "SV",
     "region": "North Dakota",
     "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams, Bismarck",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11963,7 +11963,7 @@
     "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee, McHenry, Boone, Montgomery, Bond, Fayette, Christian, Shelby, Crawford, Jasper, Effingham, Clay, Wayne, Jefferson, Marion, Clinton, Adams, Pike, Brown, Schuyler, Hancock, McDonough, Pike, Greene, Scott, Morgan, Iroquois, Vermillion",
     "publish": "Yes",
     "datestart": "2026-03-09T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11973,7 +11973,7 @@
     "districts": "Providence, Kent, Washington",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12021,7 +12021,7 @@
     "svspc": "SV",
     "region": "Nebraska",
     "districts": "Sioux, Scotts Bluff, Banner, Kimball, Dawes, Box Butte, Morrill, Cheyenne, Sheridan, Garden, Deuel, Cherry, Grant, Arthur, Keith, Perkins, Chase, Dundy, Hayes, Hitchcock, Frontier, Red Willow, Keya Paha, Boyd, Brown, Rock, Holt, Garfield, Wheeler, Valley, Greeley, Thurston, Wayne, Stanton, Cuming, Burt, Boone, Nance, Merrick, Platte, Colfax, Dodge, Washington, Douglas, Sarpy, Cass Otoe, Lancaster, Richardson, Gage, Furnas, Hall, Hamilton, York, Seward, Clay, Fillmore, Saline, Webster, Franklin, Nuckolls, Thayer",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12061,7 +12061,7 @@
     "svspc": "SV",
     "region": "Maine",
     "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo, Hancock, Washington, Penobscot, Aroostook, Piscataquis, Somerset",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12241,7 +12241,7 @@
     "svspc": "SV",
     "region": "Utah",
     "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12271,7 +12271,7 @@
     "svspc": "SV",
     "region": "Wyoming",
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-26T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12353,7 +12353,7 @@
     "districts": "Lake, Porter, Newton, Jasper, Benton, Warren, LaPorte, Franklin, Fayette, Union, Wayne, Henry, Randolph, Delaware, Jay, Blackford, Madison, Hancock, Marion, Hamilton, Boone, Clinton, Tipton, Howard, Shelby, Johnson, Brown, Bartholomew, Jackson, Hendricks, Morgan, Lawrence, Monroe, Martin, Grant",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12368,6 +12368,7 @@
   {
     "country": "United States",
     "code": "US",
+    "svspc": "SV",
     "region": "Kansas",
     "districts": "Cheyenne, Rawlins, Decatur, Norton, Phillips, Jewell, Republic, Washington, Marshall, Nemaha, Brown, Doniphan, Atchison, Jackson, Pottawatomie, Cloud, Osborne, Rooks, Graham, Sheridan, Thomas, Sherman, Wallace, Logan, Grove, Trego, Ellis, Russell, Lincoln, Ottawa, Saline, Ellsworth, McPherson, Marion, Chase, Harvey, Sedwick, Reno, Rice, Barton, Rush, Ness, Lane, Scott, Wichita, Hamilton, Kearny, Finney, Hodgeman, Pawnee, Stafford, Edwards, Kiowa, Ford, Gray, Meade, Seward, Haskell, Grant, Stanton, Comanche, Barber, Harper, Sumner, Cowley, Cherokee, Wilson, Neosho, Crawford, Woodson, Allen, Bourbon, Coffey, Anderson, Linn, Lyon, Osage, Franklin, Miami, Johnson, Douglas, Wabaunsee, Shawnee, Leavenworth, Jefferson, Dickinson",
     "publish": "Yes",
@@ -12377,6 +12378,7 @@
   {
     "country": "United States",
     "code": "US",
+    "svspc": "SV",
     "region": "New Mexico",
     "districts": "San Juan, Rio Arriba, McKinley, Sandoval, Cibola, Valencia, Socorro, Catron, Taos, Colfax, Union, Harding, Mora, San Miguel, Quay, Guadalupe, De Baca, Curry, Roosevelt, Torrance, Lincoln, Otero, Eddy, Chaves, Sierra, Dona Ana, Quay",
     "publish": "Yes",
@@ -12401,7 +12403,7 @@
     "districts": "New Castle, Kent, Sussex",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12427,7 +12429,7 @@
     "svspc": "SV",
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-06-15T07:00:00.000Z",
     "dateend": "2026-09-01T07:00:00.000Z"
   },
