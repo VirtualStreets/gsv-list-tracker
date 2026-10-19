@@ -573,7 +573,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pernambuco",
-    "districts": "Recife, Buenos Aires, Capim, Camalau, Caruaru, Maceio, Petrolina",
+    "districts": "Recife, Buenos Aires, Capim, Caruaru, Maceio, Petrolina",
     "publish": "No",
     "datestart": "2019-04-10T07:00:00.000Z",
     "dateend": "2019-08-01T07:00:00.000Z"
@@ -593,7 +593,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Maranhão",
-    "districts": "São Luís, Marcos Parente, Santa Helena, Pedreiras",
+    "districts": "São Luís, Santa Helena, Pedreiras",
     "publish": "No",
     "datestart": "2019-01-01T08:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -603,7 +603,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
-    "districts": "Belém, Campos, Santa Maria do Para, Tailandoa, Vinte Mil, Estreito, Maraba",
+    "districts": "Belém, Santa Maria do Para, Tailandoa, Vinte Mil, Estreito, Maraba",
     "publish": "No",
     "datestart": "2019-01-01T08:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -613,7 +613,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "State of Amazonas",
-    "districts": "Manaus, Manacapuru,",
+    "districts": "Manacapuru,",
     "publish": "No",
     "datestart": "2019-04-09T07:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -623,7 +623,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Salvador, Feira de Santana, Feira Nova, Itubera, Macajuba, Novo Horizonte, Ibitiguira, Santa Luz, Cicero Dantas, Mascote",
+    "districts": "Salvador, Feira Nova, Itubera, Macajuba, Ibitiguira, Santa Luz, Cicero Dantas, Mascote",
     "publish": "No",
     "datestart": "2019-04-10T07:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -633,7 +633,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Mato Grosso",
-    "districts": "Campo Grande, Caceres, Cuiaba",
+    "districts": "Caceres, Cuiaba",
     "publish": "No",
     "datestart": "2019-04-10T07:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -643,7 +643,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Piauí",
-    "districts": "Teresina, Picos, Floriano",
+    "districts": "Floriano",
     "publish": "No",
     "datestart": "2019-01-01T08:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -653,7 +653,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Ceara",
-    "districts": "Fortaleza, Crateus, Amontoada, Guaramiranga, Granja, Varjota, Solbral",
+    "districts": "Fortaleza, Crateus, Guaramiranga, Granja, Varjota, Solbral",
     "publish": "No",
     "datestart": "2019-04-10T07:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -663,7 +663,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Rio Grande do Norte",
-    "districts": "Natal, Pureza, Serra da Tapuia, Itaja, Carauba, Morada Nova, Quixeramobim, Caico, Mossoro, Major Felipe, Natal",
+    "districts": "Natal, Serra da Tapuia, Natal",
     "publish": "No",
     "datestart": "2019-07-18T07:00:00.000Z",
     "dateend": "2019-11-14T08:00:00.000Z"
@@ -673,7 +673,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
-    "districts": "Belem, Paragominas , Tucurui, Altamira, Itaituba, Carajas, Parauapebas",
+    "districts": "Belem, Tucurui, Altamira",
     "publish": "No",
     "datestart": "2020-02-01T08:00:00.000Z",
     "dateend": "2020-04-01T07:00:00.000Z"
@@ -683,7 +683,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Amazonas",
-    "districts": "Manaus, Parintins",
+    "districts": "Parintins",
     "publish": "No",
     "datestart": "2020-02-01T08:00:00.000Z",
     "dateend": "2020-07-01T07:00:00.000Z"
@@ -704,7 +704,7 @@
     "svspc": "SV",
     "region": "Piaui",
     "districts": "Teresina",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2020-02-01T08:00:00.000Z",
     "dateend": "2020-07-01T07:00:00.000Z"
   },
@@ -713,7 +713,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Espirito Santo",
-    "districts": "Serra, Vila Velha, Linhares",
+    "districts": " Vila Velha",
     "publish": "No",
     "datestart": "2020-02-01T08:00:00.000Z",
     "dateend": "2020-07-01T07:00:00.000Z"
@@ -733,8 +733,8 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Rio Grande do Norte",
-    "districts": "Natal, Parnamirim",
-    "publish": "No",
+    "districts": " Parnamirim",
+    "publish": "Yes",
     "datestart": "2020-03-01T08:00:00.000Z",
     "dateend": "2020-09-01T07:00:00.000Z"
   },
@@ -3610,7 +3610,7 @@
     "districts": "Charlottetown",
     "publish": "Yes",
     "datestart": "2026-08-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Chile",
@@ -4057,7 +4057,7 @@
     "svspc": "SV",
     "region": "Zlín",
     "districts": "Zlín, Uherské Hradiště, Kroměříž, Vsetín",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
@@ -4475,7 +4475,7 @@
     "svspc": "SV",
     "region": "Kainuu",
     "districts": "Hyrynsalmi, Kajaani, Kuhmo, Paltamo, Puolanka, Ristijärvi, Sotkamo, Suomussalmi, Vaala",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4485,7 +4485,7 @@
     "svspc": "SV",
     "region": "Southwest Finland",
     "districts": "Dalsbruk, Lohja, Loimaa, Naantali, Rauma, Salo, Turku",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4495,7 +4495,7 @@
     "svspc": "SV",
     "region": "Kymenlaakso",
     "districts": "Kotka, Kouvola, Hamina, Pyhtää, Virolahti, Miehikkälä, Anjala, Kuusankoski, Elimäki, Jaala, Valkeala, Karhula, Huruksela, Inkeroinen, Sippola, Koria, Juurikorpi, Metsäkylä, Tavastila, Ravijoki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4505,7 +4505,7 @@
     "svspc": "SV",
     "region": "Pirkanmaa",
     "districts": "Kihniö, Parkano, Pori, Tampere",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4515,7 +4515,7 @@
     "svspc": "SV",
     "region": "Satakunta",
     "districts": "Pori, Rauma, Harjavalta, Ulvila, Kokemäki, Nakkila, Eurajoki, Eura, Huittinen, Kankaanpää, Merikarvia, Pomarkku, Säkylä, Siikainen, Jämijärvi, Kiukainen, Luvia, Eurajoki, Kullaan, Pyhäranta, Köyliö, Honkajoki, Pomarkku, Karvia, Eura, Lavia, Pomarkku",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4525,7 +4525,7 @@
     "svspc": "SV",
     "region": "Central Finland",
     "districts": "Jyväskylä, Jämsä, Äänekoski, Keuruu, Laukaa, Saarijärvi, Viitasaari, Hankasalmi, Joutsa, Karstula, Kinnula, Kivijärvi, Kyyjärvi, Luhanka, Multia, Petäjävesi, Pihtipudas, Toivakka, Uurainen, Konnevesi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4535,7 +4535,7 @@
     "svspc": "SV",
     "region": "Kanta-Häme",
     "districts": "Hämeenlinna, Forssa, Janakkala, Riihimäki, Hämeenkoski, Tammela, Somero, Ypäjä, Loppi, Pälkäne",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4545,7 +4545,7 @@
     "svspc": "SV",
     "region": "South Savo",
     "districts": "Mikkeli, Pieksämäki, Savonlinna, Hirvensalmi, Kangasniemi, Mäntyharju, Puumala, Juva, Enonkoski, Rantasalmi, Sulkava, Joroinen, Pertunmaa, Heinävesi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4555,7 +4555,7 @@
     "svspc": "SV",
     "region": "North Savo",
     "districts": "Kuopio, Iisalmi, Varkaus, Siilinjärvi, Lapinlahti, Kiuruvesi, Suonenjoki, Vieremä, Pielavesi, Keitele, Tervo, Rautalampi, Sonkajärvi, Vesanto, Rautavaara, Kaavi, Tuusniemi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4565,7 +4565,7 @@
     "svspc": "SV",
     "region": "Ostrobothnia",
     "districts": "Vaasa, Kokkola, Pietarsaari, Närpiö, Kristiinankaupunki, Uusikaarlepyy, Kauhava, Laihia, Isokyrö, Korsnäs, Maalahti, Mustasaari, Vöyri, Pedersöre, Luoto, Kruunupyy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4575,7 +4575,7 @@
     "svspc": "SV",
     "region": "North Ostrobothnia - Pohjois-Pohjanmaa",
     "districts": "Oulu, Rovaniemi, Kempele, Kemi, Tervola, Liminka, Ii, Ylivieska, Kestilä, Alavieska, Nivala, Pudasjärvi, Posio, Taivalkoski, Paltamo, Kuusamo, Vihanti, Kiviharju",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4585,7 +4585,7 @@
     "svspc": "SV",
     "region": "Central Ostrobothnia",
     "districts": "Kokkola, Kannus, Toholampi, Halsua, Lestijärvi, Kaustinen, Veteli, Perho",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4595,7 +4595,7 @@
     "svspc": "SV",
     "region": "Lapland",
     "districts": "Enontekiö, Inari, Kittilä, Kolari, Muonio, Pelkosenniemi, Pello, Posio, Ranua, Rovaniemi, Salla, Savukoski, Simo, Sodankylä, Tervola, Tornio, Utsjoki, Ylitornio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4605,7 +4605,7 @@
     "svspc": "SV",
     "region": "Uusimaa",
     "districts": "Helsinki, Espoo, Vantaa, Kauniainen, Hyvinkää, Lohja, Porvoo, Raasepori, Järvenpää, Tuusula, Kerava, Kirkkonummi, Nurmijärvi, Mäntsälä, Pornainen, Sipoo, Vihti, Inkoo, Hanko, Siuntio, Lapinjärvi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4615,7 +4615,7 @@
     "svspc": "SV",
     "region": "Päijänne Tavastia",
     "districts": "Asikkala, Hartola, Heinola, Hollola, Kärkölä, Lahti, Orimattila, Padasjoki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -4625,7 +4625,7 @@
     "svspc": "SV",
     "region": "Pohjanmaa",
     "districts": "Ikaalinen, Ilmajoki, Isojoki, Jalasjärvi, Jurva, Kankaanpää, Karvia, Kauhajoki, Kauhava, Kuortane, Kurikka, Laihia, Lappajärvi, Lapua, Lavia, Luoto, Merikarvia, Närpiö, Pedersöre, Pietarsaari, Seinäjoki, Soini, Teuva, Vaasa, Veteli, Vimpeli, Ähtäri",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-08T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -6174,7 +6174,7 @@
     "districts": "Lubuktarantang, Dharmasraya, Padang, Bnegkulu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6214,7 +6214,7 @@
     "districts": "South Tangerang, Tangerang, Balaraja, Kotabumi",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6274,7 +6274,7 @@
     "districts": "Sumbawa, Badjo, Bima, Dompu",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -7339,9 +7339,7 @@
     "svspc": "SV",
     "region": "Miyazaki",
     "districts": "Miyazaki",
-    "publish": "Yes",
-    "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -9121,21 +9119,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "SOCCSKSARGEN",
-    "districts": "Palimbang",
+    "region": "Northern Mindanao",
+    "districts": "Iligan",
     "publish": "Yes",
-    "datestart": "2026-09-16T07:00:00.000Z",
-    "dateend": "2026-09-19T07:00:00.000Z"
+    "datestart": "2026-10-08T07:00:00.000Z",
+    "dateend": "2026-10-24T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Northern Mindanao",
-    "districts": "Quezon",
+    "districts": "Ozamiz",
     "publish": "Yes",
-    "datestart": "2026-09-15T07:00:00.000Z",
-    "dateend": "2026-10-09T07:00:00.000Z"
+    "datestart": "2026-10-12T07:00:00.000Z",
+    "dateend": "2026-10-24T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9789,7 +9787,7 @@
     "svspc": "SV",
     "region": "Nord-Est",
     "districts": "Iași, Onești, Suceava, Botoșani, Bacău, Moinești, Dorohoi, Pașcani, Piatra Neamț, Roman, Vaslui, Bârlad, Roman, Câmpulung Moldovenesc, Fălticeni, Rădăuți, Vatra Dornei, Bârlad, Huși, Vaslui",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9799,7 +9797,7 @@
     "svspc": "SV",
     "region": "Sud-Est",
     "districts": "Miercurea Ciuc, Buzău, Brăila, Focșani, Râmnicu Sărat, Constanța, Mangalia, Medgidia, Galați, Tecuci, Tulcea, Adjud",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9809,7 +9807,7 @@
     "svspc": "SV",
     "region": "Sud - Muntenia",
     "districts": "Târgoviște, Câmpulung, Curtea de Argeș, Pitești, Călărași, Oltenița, Moreni, Giurgiu, Fetești, Slobozia, Urziceni, Câmpina, Ploiești, Alexandria, Roșiorii de Vede, Turnu Măgurele",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9819,7 +9817,7 @@
     "svspc": "SV",
     "region": "Sud-Vest",
     "districts": "Băilești, Calafat, Craiova, Motru, Târgu Jiu, Drobeta-Turnu Severin, Orșova, Caracal, Slatina, Râmnicu Vâlcea, Drăgășani",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9829,7 +9827,7 @@
     "svspc": "SV",
     "region": "Vest",
     "districts": "Timișoara, Lugoj, Arad, Caransebeș, Reșița, Brad, Deva, Hunedoara, Lupeni, Orăștie, Petroșani, Vulcan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9839,7 +9837,7 @@
     "svspc": "SV",
     "region": "Nord-Vest",
     "districts": "Cluj-Napoca, Baia Mare, Beiuș, Marghita, Oradea, Salonta, Bistrița, Câmpia Turzii, Dej, Gherla, Turda, Sighetu Marmației, Satu Mare, Carei, Zalău",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9849,7 +9847,7 @@
     "svspc": "SV",
     "region": "Centru",
     "districts": "Sibiu, Făgăraș, Mediaș, Brașov, Aiud, Alba Iulia, Târgu Mureș, Blaj, Sebeș, Codlea, Săcele, Sfântu Gheorghe, Târgu Secuiesc, Gheorgheni, Miercurea Ciuc, Odorheiu Secuiesc, Toplița, Reghin, Sighișoara, Târnăveni,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9859,7 +9857,7 @@
     "svspc": "SV",
     "region": "București - Ilfov",
     "districts": "Bucharest, Periș, Ciolpani, Gruiu, Nuci, Snagov, Grădiștea, Moara Vlăsiei, Balotești, Corbeanca, Dascălu, Petrăchioaia, Otopeni, Tunari, Ștefăneștii de Jos, Afumați, Voluntari, Găneasa, Mogoșoaia, Buftea, Chitila, Dragomirești-Vale, Chiajna, Dobroești, Pantelimon, Brănești, Ciorogârla, Domnești, Clinceni, Bragadiru, Popești-Leordeni, Glina, Cernica, Cornetu, Măgurele, Jilava, Berceni, Dărăști-Ilfov, 1 Decembrie, Vidra",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9869,7 +9867,7 @@
     "svspc": "SV",
     "region": "Teleorman County",
     "districts": "Alexandria, Roșiorii de Vede, Turnu Măgurele",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9879,7 +9877,7 @@
     "svspc": "SV",
     "region": "Timiș County",
     "districts": "Timișoara, Lugoj, Arad, Caransebeș, Reșița, Brad, Deva, Hunedoara, Lupeni, Orăștie, Petroșani, Vulcan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9889,7 +9887,7 @@
     "svspc": "SV",
     "region": "Arad County",
     "districts": "Arad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9899,7 +9897,7 @@
     "svspc": "SV",
     "region": "Arad County",
     "districts": "Arad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9909,7 +9907,7 @@
     "svspc": "SV",
     "region": "Bihor county",
     "districts": "Oradea, Marghita, Beiuș, Salonta",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9919,7 +9917,7 @@
     "svspc": "SV",
     "region": "Bucharest",
     "districts": "Bucharest",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9929,7 +9927,7 @@
     "svspc": "SV",
     "region": "Constanța County",
     "districts": "Constanța, Mangalia, Medgidia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9939,7 +9937,7 @@
     "svspc": "SV",
     "region": "Tulcea County",
     "districts": "Babadag, Navodari",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9949,7 +9947,7 @@
     "svspc": "SV",
     "region": "Brăila County",
     "districts": "Brăila",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9959,7 +9957,7 @@
     "svspc": "SV",
     "region": "Suceava County",
     "districts": "Câmpulung Moldovenesc, Fălticeni, Rădăuți, Suceava, Vatra Dornei",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9969,7 +9967,7 @@
     "svspc": "SV",
     "region": "Iași County",
     "districts": "Hârlău, Pașcani, Iasi, Valea Lupului",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9979,7 +9977,7 @@
     "svspc": "SV",
     "region": "Bacău County",
     "districts": "Bacău, Moinești, Onești",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9989,7 +9987,7 @@
     "svspc": "SV",
     "region": "Botoșani County",
     "districts": "Botoșani, Darabani, Dorohoi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -9999,7 +9997,7 @@
     "svspc": "SV",
     "region": "Vaslui County",
     "districts": "Bârlad, Huși, Vaslui",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10009,7 +10007,7 @@
     "svspc": "SV",
     "region": "Bistrița-Năsăud County",
     "districts": "Bistrița",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10019,7 +10017,7 @@
     "svspc": "SV",
     "region": "Hunedoara County",
     "districts": "Brad, Deva, Lupeni, Hunedoara, Petroșani, Orăștie, Vulcan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10029,7 +10027,7 @@
     "svspc": "SV",
     "region": "Brașov County",
     "districts": "Brașov, Făgăraș, Săcele, Codlea",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10039,7 +10037,7 @@
     "svspc": "SV",
     "region": "Covasna County",
     "districts": "Sfântu Gheorghe, Târgu Secuiesc",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10049,7 +10047,7 @@
     "svspc": "SV",
     "region": "Prahova County",
     "districts": "Câmpina, Ploiești",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10059,7 +10057,7 @@
     "svspc": "SV",
     "region": "Călărași County",
     "districts": "Călărași, Oltenița",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10069,7 +10067,7 @@
     "svspc": "SV",
     "region": "Dâmbovița County",
     "districts": "Târgoviște, Moreni",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10079,7 +10077,7 @@
     "svspc": "SV",
     "region": "Galați County",
     "districts": "Galați, Tecuci",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10089,7 +10087,7 @@
     "svspc": "SV",
     "region": "Gorj County",
     "districts": "Târgu Jiu, Motru",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10099,7 +10097,7 @@
     "svspc": "SV",
     "region": "Giurgiu County",
     "districts": "Giurgiu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10109,7 +10107,7 @@
     "svspc": "SV",
     "region": "Ialomița County",
     "districts": "Fetești, Slobozia, Urziceni",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10119,7 +10117,7 @@
     "svspc": "SV",
     "region": "Harghita County",
     "districts": "Miercurea Ciuc, Gheorgheni, Odorheiu Secuiesc, Toplița",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10129,7 +10127,7 @@
     "svspc": "SV",
     "region": "Ilfov County",
     "districts": "Popești-Leordeni, Voluntari, Chiajna, Bragadiru, Pantelimon, Buftea, Otopeni",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10139,7 +10137,7 @@
     "svspc": "SV",
     "region": "Alba County",
     "districts": "Alba Iulia, Aiud, Blaj, Sebeș",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10149,7 +10147,7 @@
     "svspc": "SV",
     "region": "Buzău County",
     "districts": "Buzău, Râmnicu Sărat",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10159,7 +10157,7 @@
     "svspc": "SV",
     "region": "Cluj County",
     "districts": "Cluj-Napoca, Câmpia Turzii, Dej, Gherla, Turda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10169,7 +10167,7 @@
     "svspc": "SV",
     "region": "Dolj County",
     "districts": "Craiova, Calafat, Băilești",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10179,7 +10177,7 @@
     "svspc": "SV",
     "region": "Suceava County",
     "districts": "Câmpulung Moldovenesc, Fălticeni, Rădăuți, Suceava, Vatra Dornei",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10189,7 +10187,7 @@
     "svspc": "SV",
     "region": "Maramureș County",
     "districts": "Baia Mare, Sighetu Marmației - border with Ukraine",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10199,7 +10197,7 @@
     "svspc": "SV",
     "region": "Mehedinți County",
     "districts": "Drobeta-Turnu Severin, Orșova",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10209,7 +10207,7 @@
     "svspc": "SV",
     "region": "Olt County",
     "districts": "Slatina, Caracal",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10219,7 +10217,7 @@
     "svspc": "SV",
     "region": "Vrancea County",
     "districts": "Adjud, Focșani",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10229,7 +10227,7 @@
     "svspc": "SV",
     "region": "Iași County",
     "districts": "Hârlău, Pașcani",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10239,7 +10237,7 @@
     "svspc": "SV",
     "region": "Caraș-Severin County",
     "districts": "Reșița, Caransebeș",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10249,7 +10247,7 @@
     "svspc": "SV",
     "region": "Argeș County",
     "districts": "Pitești, Câmpulung, Curtea de Argeș",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10259,7 +10257,7 @@
     "svspc": "SV",
     "region": "Bihor County",
     "districts": "Oradea, Marghita, Beiuș, Salonta",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10269,7 +10267,7 @@
     "svspc": "SV",
     "region": "Neamț County",
     "districts": "Piatra Neamț, Roman",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10279,7 +10277,7 @@
     "svspc": "SV",
     "region": "Sălaj County",
     "districts": "Zalău",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10289,7 +10287,7 @@
     "svspc": "SV",
     "region": "Sibiu County",
     "districts": "Sibiu, Mediaș, Agnita, Avrig, Cisnădie, Dumbrăveni, Tălmaciu, Ocna Sibiului, Miercurea Sibiului, Copșa Mică.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10299,7 +10297,7 @@
     "svspc": "SV",
     "region": "Mureș County",
     "districts": "Târgu Mureș, Reghin, Sighișoara, Târnăveni",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
@@ -10309,7 +10307,7 @@
     "svspc": "SV",
     "region": "Tulcea County",
     "districts": "Tulcea - border with Ukraine",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-14T07:00:00.000Z"
   },
