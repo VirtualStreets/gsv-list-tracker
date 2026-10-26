@@ -1285,7 +1285,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chubut",
-    "districts": "Garayalde, Río Mayo, Alto Río Senguer, Trevelín, Puerto Madryn",
+    "districts": "Garayalde, Río Mayo, Alto Río Senguer, Trevelín,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1296,7 +1296,7 @@
     "svspc": "SV",
     "region": "Córdoba",
     "districts": "San Francisco",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1395,7 +1395,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Rio Negro",
-    "districts": "El Caín, Río Colorado, Gral. Conesa, San Antonio Oeste",
+    "districts": "El Caín, Río Colorado, Gral. Conesa,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1465,7 +1465,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Tierra del Fuego",
-    "districts": "San Sebastián, Río Grande, Ushuaia",
+    "districts": " Río Grande, Ushuaia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1816,7 +1816,7 @@
     "svspc": "SV",
     "region": "Distrito Federal",
     "districts": "Brasilia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2225,7 +2225,7 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Coquimbo",
-    "districts": "Illapel,Monte Patria,Ovalle",
+    "districts": "Monte Patria,Ovalle",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2526,7 +2526,7 @@
     "svspc": "SV",
     "region": "Amazonas",
     "districts": "Leticia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2695,7 +2695,7 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Huila",
-    "districts": "Neiva, Popayán",
+    "districts": "Neiva,",
     "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2726,7 +2726,7 @@
     "svspc": "SV",
     "region": "Meta",
     "districts": "Altamira",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2786,7 +2786,7 @@
     "svspc": "SV",
     "region": "San Andres y Providencia",
     "districts": "San Andres y Providencia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2796,7 +2796,7 @@
     "svspc": "SV",
     "region": "Santander",
     "districts": "Santander",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2845,7 +2845,7 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Vichada",
-    "districts": "Cumaribo, El Porvenir, Palmarito",
+    "districts": "Cumaribo, El Porvenir",
     "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2896,7 +2896,7 @@
     "svspc": "SV",
     "region": "Chiapas",
     "districts": "Frontera Comalapa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2935,8 +2935,8 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Colima",
-    "districts": "Comala, Quesería, Suchitlán",
-    "publish": "Yes",
+    "districts": " Suchitlán",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2965,7 +2965,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Guanajuato",
-    "districts": "San Miguel de Allende, Irapuato, León de los Aldama",
+    "districts": "San Miguel de Allende",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3005,7 +3005,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Michoacán",
-    "districts": "Ario de Rosales , Uruapan, Zacapu",
+    "districts": " Zacapu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3015,7 +3015,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Morelos",
-    "districts": "Cuernavaca, Yecapixtla",
+    "districts": " Yecapixtla",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3025,7 +3025,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Nayarit",
-    "districts": "Acaponeta, Huajicori, Ixtlán del Río, Tecuala, Sayulita",
+    "districts": "Acaponeta, Huajicori, Ixtlán del Río, Tecuala,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3036,7 +3036,7 @@
     "svspc": "SV",
     "region": "Nuevo León",
     "districts": "Colombia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3045,8 +3045,8 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Oaxaca",
-    "districts": "Matías Romero Avendaño, Putla Villa de Guerrero",
-    "publish": "Yes",
+    "districts": " Putla Villa de Guerrero",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3076,7 +3076,7 @@
     "svspc": "SV",
     "region": "Quintana Roo",
     "districts": "Puerto Morelos",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3125,7 +3125,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Tamaulipas",
-    "districts": "Barretán, Heroica Matamoros, Nuevo Laredo, Reynosa, Soto la Marina, Villagrán",
+    "districts": "Barretán, Nuevo Laredo, Reynosa, Soto la Marina,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3135,7 +3135,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Tlaxcala",
-    "districts": "Santa Ana Chiautempan, San Martín Texmelucan de Labastida",
+    "districts": "Santa Ana Chiautempan,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3547,7 +3547,7 @@
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
     "publish": "No",
     "datestart": "2026-08-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -6284,7 +6284,7 @@
     "districts": "Carlow",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6294,7 +6294,7 @@
     "districts": "Cavan",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6304,7 +6304,7 @@
     "districts": "Ennis",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6314,7 +6314,7 @@
     "districts": "Cork",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6324,7 +6324,7 @@
     "districts": "Lifford, Letterkenny",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6334,7 +6334,7 @@
     "districts": "Dublin",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6344,7 +6344,7 @@
     "districts": "Galway",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6354,7 +6354,7 @@
     "districts": "Tralee",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6364,7 +6364,7 @@
     "districts": "Naas, Newbridge",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6374,7 +6374,7 @@
     "districts": "Kilkenny",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6384,7 +6384,7 @@
     "districts": "Portlaoise",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6394,7 +6394,7 @@
     "districts": "Carrick-on-Shannon",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6404,7 +6404,7 @@
     "districts": "Limerick",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6414,7 +6414,7 @@
     "districts": "Longford",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6424,7 +6424,7 @@
     "districts": "Dundalk, Drogheda",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6434,7 +6434,7 @@
     "districts": "Castlebar",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6444,7 +6444,7 @@
     "districts": "Navan",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6454,7 +6454,7 @@
     "districts": "Monaghan",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6464,7 +6464,7 @@
     "districts": "Tullamore",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6474,7 +6474,7 @@
     "districts": "Roscommon",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6484,7 +6484,7 @@
     "districts": "Sligo",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6494,7 +6494,7 @@
     "districts": "Nenagh, Clonmel",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6504,7 +6504,7 @@
     "districts": "Waterford",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6514,7 +6514,7 @@
     "districts": "Mullingar, Athlone",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6524,7 +6524,7 @@
     "districts": "Wexford",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6534,7 +6534,7 @@
     "districts": "Wicklow, Bray",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6544,7 +6544,7 @@
     "districts": "Galway",
     "publish": "Yes",
     "datestart": "2026-04-23T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Israel",
@@ -7811,7 +7811,7 @@
     "districts": "Borsod-Abaúj-Zemplén, Heves, Nógrád.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7821,7 +7821,7 @@
     "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7831,7 +7831,7 @@
     "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7841,7 +7841,7 @@
     "districts": "Budapest, Pest megye.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7851,7 +7851,7 @@
     "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7861,7 +7861,7 @@
     "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7871,7 +7871,7 @@
     "districts": "Baranya megye, Somogy megye, Tolna megye.",
     "publish": "Yes",
     "datestart": "2026-03-19T07:00:00.000Z",
-    "dateend": "2026-11-03T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -8368,7 +8368,7 @@
     "districts": "Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8378,7 +8378,7 @@
     "districts": "Almere, Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8388,7 +8388,7 @@
     "districts": "Achtkarspelen, Ameland, Dantumadiel, De Fryske Marren, Dongeradeel, Ferwerderadiel, Harlingen, Heerenveen, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest-Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8398,7 +8398,7 @@
     "districts": "Aalten, Apeldoorn, Arnhem, Barneveld, Berg en Dal, Berkelland, Beuningen, Bronckhorst, Brummen, Buren, Culemborg, Doesburg, Doetinchem, Druten, Duiven, Ede, Elburg, Epe, Ermelo, Harderwijk, Hattem, Heerde, Heumen, Lingewaard, Lochem, Maasdriel, Montferland, Neder-Betuwe, Nijkerk, Nijmegen, Nunspeet, Oldebroek, Oost Gelre, Oude IJsselstreek, Overbetuwe, Putten, Renkum, Rheden, Rozendaal, Scherpenzeel, Tiel, Voorst, Wageningen, West Betuwe, West Maas en Waal, Westervoort, Wijchen, Winterswijk, Zaltbommel, Zevenaar, Zutphen.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8408,7 +8408,7 @@
     "districts": "Appingedam, Delfzijl, Groningen, Het Hogeland, Loppersum, Midden-Groningen, Oldambt, Pekela, Stadskanaal, Veendam, Westerkwartier, Westerwolde.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8418,7 +8418,7 @@
     "districts": "Beek, Beekdaelen, Beesel, Bergen, Brunssum, Echt-Susteren, Eijsden-Margraten, Gennep, Gulpen-Wittem, Heerlen, Horst aan de Maas, Kerkrade, Landgraaf, Leudal, Maasgouw, Maastricht, Meerssen, Mook en Middelaar, Nederweert, Peel en Maas, Roerdalen, Roermond, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Venlo, Venray, Voerendaal, Weert.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8428,7 +8428,7 @@
     "districts": "Aalburg, Alphen-Chaam, Altena, Asten, Baarle-Nassau, Bergeijk, Bergen op Zoom, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Breda, Cranendonck, Cuijk, Deurne, Dongen, Drimmelen, Eersel, Eindhoven, Etten-Leur, Geertruidenberg, Geldrop-Mierlo, Gemert-Bakel, Gilze en Rijen, Goirle, Grave, Haaren, Halderberge, Heeze-Leende, Helmond, 's-Hertogenbosch (Den Bosch), Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Meierijstad, Mill en Sint Hubert, Moerdijk, Nuenen, Gerwen en Nederwetten, Oirschot, Oisterwijk, Oosterhout, Oss, Reusel-De Mierden, Roosendaal, Rucphen, Sint Anthonis, Sint-Michielsgestel, Someren, Son en Breugel, Steenbergen, Tilburg, Uden, Valkenswaard, Veldhoven, Vught, Waalre, Waalwijk, Woensdrecht, Zundert.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8438,7 +8438,7 @@
     "districts": "Aalsmeer, Alkmaar, Amstelveen, Amsterdam, Beemster, Bergen, Beverwijk, Blaricum, Bloemendaal, Castricum, Diemen, Drechterland, Edam-Volendam, Enkhuizen, Gooise Meren, Haarlem, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hilversum, Hollands Kroon, Hoorn, Huizen, Koggenland, Landsmeer, Langedijk, Laren, Medemblik, Oostzaan, Opmeer, Ouder-Amstel, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Weesp, Wijdemeren, Wormerland, Zaanstad, Zandvoort.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8448,7 +8448,7 @@
     "districts": "Almelo, Borne, Dalfsen, Deventer, Dinkelland, Enschede, Haaksbergen, Hardenberg, Hellendoorn, Hengelo, Hof van Twente, Kampen, Losser, Oldenzaal, Olst-Wijhe, Ommen, Raalte, Rijssen-Holten, Staphorst, Steenwijkerland, Tubbergen, Twenterand, Wierden, Zwartewaterland, Zwolle.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8458,7 +8458,7 @@
     "districts": "Alblasserdam, Albrandswaard, Alphen aan den Rijn, Barendrecht, Bodegraven-Reeuwijk, Brielle, Capelle aan den IJssel, Delft, Den Haag (The Hague), Dordrecht, Goeree-Overflakkee, Gorinchem, Gouda, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Hillegom, Kaag en Braassem, Katwijk, Krimpen aan den IJssel, Krimpenerwaard, Lansingerland, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Maassluis, Midden-Delfland, Molenlanden, Nieuwkoop, Nissewaard, Noordwijk, Oegstgeest, Papendrecht, Pijnacker-Nootdorp, Ridderkerk, Rijswijk, Rotterdam, Schiedam, Sliedrecht, Teylingen, Vlaardingen, Voorschoten, Waddinxveen, Wassenaar, Westland, Westvoorne, Zoetermeer, Zoeterwoude, Zuidplas, Zwijndrecht.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8468,7 +8468,7 @@
     "districts": "Amersfoort, Baarn, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Eemnes, Houten, IJsselstein, Leusden, Lopik, Montfoort, Nieuwegein, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Wijk bij Duurstede, Woerden, Woudenberg, Zeist.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -8478,7 +8478,7 @@
     "districts": "Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "New Zealand",
@@ -10730,7 +10730,7 @@
     "districts": "Johannesburg, Pretoria, Alberton, Boksburg, Edenvale, Germiston, Midrand, Sandton, Springs, Roodepoort, Benoni, Krugersdorp, Randburg, Bronkhorstspruit, Cullinan, Nigel, Centurion, Kyalami, Vanderbijlpark, Heidelberg, Sebokeng, Tembisa, Atteridgeville, Mamelodi, Lenasia",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10740,7 +10740,7 @@
     "districts": "Cape Town, Stellenbosch, George, Knysna, Mossel Bay, Hermanus, Paarl, Wellington, Ceres, Oudtshoorn, Malmesbury, Caledon, Grabouw, Langebaan, Saldanha Bay, Vredenburg, Beaufort West, Ladismith, Elim, Prince Albert, Tulbagh",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10750,7 +10750,7 @@
     "districts": "Durban, Pietermaritzburg, Richards Bay, Newcastle, Empangeni, Margate, Ulundi, Ladysmith, Greytown, Port Shepstone, Howick, Hilton, Ballito, Amanzimtoti, Hillcrest, Mooi River, Vryheid, Estcourt, Mtubatuba, Kokstad, Pinetown, Inanda, uMhlanga, Eshowe",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10760,7 +10760,7 @@
     "districts": "Port Elizabeth, East London, Mthatha, Uitenhage, Queenstown, Grahamstown, Butterworth, Middelburg, Kirkwood, Addo, Bathurst, Humansdorp, Mt Frere, Bisho, Komani, Aliwal North, Stutterheim, Fort Beaufort, King William's Town, Port Alfred, Tsomo, Maclear, Lusikisiki",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10770,7 +10770,7 @@
     "districts": "Polokwane, Tzaneen, Lebowakgomo, Thohoyandou, Makhado, Ba-Phalaborwa, Giyani, Louis Trichardt, Modimolle, Mokopane, Naboomspruit, Musina, Bela-Bela, Phalaborwa, Vhembe, Sekhukhune, Thabazimbi, Alldays, Dendron, Mookgophong, Haenertsburg, Tzaneen, Mookgophong, Naboomspruit",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10780,7 +10780,7 @@
     "districts": "Mbombela, Witbank, Nelspruit, Barberton, Lydenburg, Secunda, White River, Sabie, Hazyview, Bushbuckridge, Kriel, Piet Retief, Groblersdal, Komatipoort, Dullstroom, Schoemanskloof, Belfast, Badplaas, Mkhuhlu, Delmas, Machadodorp, Tzaneen, Elukwatini, Driefontein, Bethal",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10790,7 +10790,7 @@
     "districts": "Mahikeng, Klerksdorp, Potchefstroom, Rustenburg, Zeerust, Lichtenburg, Brits, Vryburg, Ganyesa, Ramatlabama, Mmabatho, Mafikeng, Ganyesa, Modimolle, Tlhakajeng, Bapong, Mokopane, Mafikeng, Mabopane, Letlhakeng, Bojanala, Zeerust, Gaborone, Jankarra, Mahlakeng, Bokone, Lekwa, Lethabong",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10800,7 +10800,7 @@
     "districts": "Bloemfontein, Welkom, Sasolburg, Kroonstad, Harrismith, QwaQwa, Ficksburg, Petrusburg, Boshof, Ladybrand, Vrede, Clocolan, Twee Riviere, Parys, Odendaalsrus, Theunissen, Wesselsbron, Bothaville, Frankfort, Dewetsdorp, Gariepdam, Petrusburg, Bultfontein, Hertzogville, Jacobsdal, Koffiefontein, Koppies, Marquard, Norvalspont, Harrismith, Phuthaditjhaba",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -10810,7 +10810,7 @@
     "districts": "Kimberley, Upington, Colesberg, De Aar, Springbok, Kuruman, Postmasburg, Griquatown, Hay, Loeriesfontein, Hotazel, Lutzville, Carnarvon, Pofadder, Vredendal, Hondeklipbaai, Calvinia, Prieska, Schmidt, Sutherland, Upington, Postmasburg, Griquatown, Kimberley, Colesberg, De Aar, Springbok, Kuruman, Hartswater",
     "publish": "Yes",
     "datestart": "2026-01-29T08:00:00.000Z",
-    "dateend": "2026-10-08T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Sri Lanka",
@@ -11969,7 +11969,7 @@
     "svspc": "SV",
     "region": "Rhode Island",
     "districts": "Providence, Kent, Washington",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -12409,7 +12409,7 @@
     "svspc": "SV",
     "region": "Vermont",
     "districts": "Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
