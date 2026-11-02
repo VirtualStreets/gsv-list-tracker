@@ -1266,7 +1266,7 @@
     "svspc": "SV",
     "region": "Catamarca",
     "districts": "Antofagasta de la Sierra, El Peñón",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1296,7 +1296,7 @@
     "svspc": "SV",
     "region": "Córdoba",
     "districts": "San Francisco",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1306,7 +1306,7 @@
     "svspc": "SV",
     "region": "Corrientes",
     "districts": "Esquina",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1316,7 +1316,7 @@
     "svspc": "SV",
     "region": "Entre Rios",
     "districts": "San Salvador",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1326,7 +1326,7 @@
     "svspc": "SV",
     "region": "Formosa",
     "districts": "Fortín Cabo 1° Lugones, San Martín N° 2, Guadalcázar",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1336,7 +1336,7 @@
     "svspc": "SV",
     "region": "Jujuy",
     "districts": "Olaroz Chico, Susques, Pastos Chicos, Catua",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1346,7 +1346,7 @@
     "svspc": "SV",
     "region": "La Pampa",
     "districts": "Realico, El Carancho, Cuchillo Có",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1356,7 +1356,7 @@
     "svspc": "SV",
     "region": "La Rioja",
     "districts": "Alto Jaguel, Villa San José de Vinchina, Villa Castelli, Villa Unión, Guandacol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1376,7 +1376,7 @@
     "svspc": "SV",
     "region": "Misiones",
     "districts": "25 de Mayo, Santa Ana",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1405,7 +1405,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Salta",
-    "districts": "Salar de Pocitos, Santa Rosa de los Pastos Grandes",
+    "districts": "Santa Rosa de los Pastos Grandes",
     "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1416,7 +1416,7 @@
     "svspc": "SV",
     "region": "San Juan",
     "districts": "Rodeo",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1426,7 +1426,7 @@
     "svspc": "SV",
     "region": "San Luis",
     "districts": "Quines",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1435,7 +1435,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Santa Cruz",
-    "districts": "Caleta Olivia, Cmte. Luis Piedra Buena, El Calafate, Jaramillo, Las Heras, Perito Moreno, Pico Truncado, Puerto Santa Cruz, Río Gallegos",
+    "districts": "Caleta Olivia,  El Calafate, Jaramillo, Las Heras, Perito Moreno, Río Gallegos",
     "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1756,7 +1756,7 @@
     "svspc": "SV",
     "region": "Alagoas",
     "districts": "Deodoro",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1785,7 +1785,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Banzaê, Santa Helena de Minas, Umburaninha",
+    "districts": "Santa Helena de Minas, Umburaninha",
     "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1796,7 +1796,7 @@
     "svspc": "SV",
     "region": "Ceará",
     "districts": "Antonina do Norte,Juazeiro do Norte",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1816,7 +1816,7 @@
     "svspc": "SV",
     "region": "Distrito Federal",
     "districts": "Brasilia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1836,7 +1836,7 @@
     "svspc": "SV",
     "region": "Espírito Santo",
     "districts": "Guaçuí,Linhares",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1846,7 +1846,7 @@
     "svspc": "SV",
     "region": "Goiás",
     "districts": "Combinado",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1876,7 +1876,7 @@
     "svspc": "SV",
     "region": "Mato Grosso do Sul",
     "districts": "Chapadão do Sul",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1906,7 +1906,7 @@
     "svspc": "SV",
     "region": "Paraíba",
     "districts": "Catolé do Rocha",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1926,7 +1926,7 @@
     "svspc": "SV",
     "region": "Paraná",
     "districts": "Paranaguá",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2196,7 +2196,7 @@
     "svspc": "SV",
     "region": "Tarapacá",
     "districts": "Pachica",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2236,7 +2236,7 @@
     "svspc": "SV",
     "region": "Valparaíso",
     "districts": "San Antonio",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2266,7 +2266,7 @@
     "svspc": "SV",
     "region": "Maule",
     "districts": "Maule, Curicó",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2276,7 +2276,7 @@
     "svspc": "SV",
     "region": "Ñuble",
     "districts": "Itata",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2526,7 +2526,7 @@
     "svspc": "SV",
     "region": "Amazonas",
     "districts": "Leticia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2546,7 +2546,7 @@
     "svspc": "SV",
     "region": "Arauca",
     "districts": "Arauca",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2576,7 +2576,7 @@
     "svspc": "SV",
     "region": "Bolivar",
     "districts": "Bolivar",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2626,7 +2626,7 @@
     "svspc": "SV",
     "region": "Cauca",
     "districts": "Cauca",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2646,7 +2646,7 @@
     "svspc": "SV",
     "region": "Chocó",
     "districts": "Chocó",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2666,7 +2666,7 @@
     "svspc": "SV",
     "region": "Cundinamarca",
     "districts": "Cundinamarca",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2706,7 +2706,7 @@
     "svspc": "SV",
     "region": "La Guajira",
     "districts": "Fonseca",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2726,7 +2726,7 @@
     "svspc": "SV",
     "region": "Meta",
     "districts": "Altamira",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2756,7 +2756,7 @@
     "svspc": "SV",
     "region": "Putumayo",
     "districts": "Manizales, Pereira",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2766,7 +2766,7 @@
     "svspc": "SV",
     "region": "Quindío",
     "districts": "Manizales, Pereira",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2776,7 +2776,7 @@
     "svspc": "SV",
     "region": "Risaralda",
     "districts": "Manizales, Pereira",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2786,7 +2786,7 @@
     "svspc": "SV",
     "region": "San Andres y Providencia",
     "districts": "San Andres y Providencia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2885,7 +2885,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Campeche",
-    "districts": "Campeche, Alfredo V. Bonfil",
+    "districts": "Campeche",
     "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2896,7 +2896,7 @@
     "svspc": "SV",
     "region": "Chiapas",
     "districts": "Frontera Comalapa",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2935,8 +2935,8 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Colima",
-    "districts": " Suchitlán",
-    "publish": "No",
+    "districts": "Suchitlán",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3036,7 +3036,7 @@
     "svspc": "SV",
     "region": "Nuevo León",
     "districts": "Colombia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3045,8 +3045,8 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Oaxaca",
-    "districts": " Putla Villa de Guerrero",
-    "publish": "No",
+    "districts": "Putla Villa de Guerrero",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3076,7 +3076,7 @@
     "svspc": "SV",
     "region": "Quintana Roo",
     "districts": "Puerto Morelos",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3385,7 +3385,7 @@
     "svspc": "SV",
     "region": "Arequipa",
     "districts": "Mollendo",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3454,7 +3454,7 @@
     "code": "PE",
     "svspc": "SV",
     "region": "La Libertad",
-    "districts": "Huamachuco, Santiago de Chuco",
+    "districts": "Huamachuco",
     "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -6064,7 +6064,7 @@
     "districts": "Pontianak, Singkawang, Ketapang, Sambas, SIntang, Sekadau, Nanga Tayap",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6114,7 +6114,7 @@
     "districts": "Manado. Bitung, Ratahan",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6144,7 +6144,7 @@
     "districts": "Borebore, Bugingkalo, Romporompo, Kasiputih",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6164,7 +6164,7 @@
     "districts": "Pekanbaru, Bengkalis, Pangkal Pinang",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6954,17 +6954,17 @@
     "districts": "Asahikawa, Wakkanai, Abashiri",
     "publish": "Yes",
     "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Aomori",
-    "districts": "Hachinohe, Towada, Kuji",
+    "districts": "Hachinohe, Towada, Aomori",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6974,7 +6974,7 @@
     "districts": "Yurihonjyo, Daisen",
     "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6991,7 +6991,7 @@
     "districts": "Fukushima, Koriyama, Iwaki",
     "publish": "Yes",
     "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7015,7 +7015,7 @@
     "districts": "Maebashi, Isesaki, Fujioka, Kiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7025,17 +7025,14 @@
     "districts": "Tsukuba, Ushiku, Kamisu, Katori, Kamisu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Tochigi",
-    "districts": "Tochigi, Maoka",
-    "publish": "Yes",
-    "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7049,7 +7046,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Saitama",
-    "publish": "No"
+    "districts": "Okegawa, Ageo",
+    "publish": "Yes",
+    "datestart": "2026-09-01T07:00:00.000Z",
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7059,21 +7059,27 @@
     "districts": "Chiba, Ichihara, Kisarazu",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Tokyo",
-    "publish": "No"
+    "districts": "Tokyo",
+    "publish": "Yes",
+    "datestart": "2026-09-01T07:00:00.000Z",
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Kanagawa",
-    "publish": "No"
+    "districts": "Kawasaki, Yokohama, Sagamihara",
+    "publish": "Yes",
+    "datestart": "2026-09-01T07:00:00.000Z",
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7087,10 +7093,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Nagano",
-    "districts": "Okaya, Matsumoto",
+    "districts": "Nagano, Matsumoto",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7100,14 +7106,17 @@
     "districts": "Jyoetsu, Niigata, Sanjyo",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Fukui",
-    "publish": "No"
+    "districts": "Fukui, Sabae",
+    "publish": "Yes",
+    "datestart": "2026-08-31T07:00:00.000Z",
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7117,7 +7126,7 @@
     "districts": "Toyama, Takaoka",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7125,9 +7134,7 @@
     "svspc": "SV",
     "region": "Ishikawa",
     "districts": "Kanazawa, Kaga",
-    "publish": "Yes",
-    "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7137,7 +7144,7 @@
     "districts": "Gifu, Kagamihara, Hashima",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7147,7 +7154,7 @@
     "districts": "Toyota, Okazaki, Chiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7164,7 +7171,7 @@
     "districts": "Hikone, Omihachiman, Higashi Omi",
     "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7178,7 +7185,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Nara",
-    "publish": "No"
+    "districts": "YamatoKoriyama, Tenri",
+    "publish": "Yes",
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7188,17 +7198,14 @@
     "districts": "Osaka, Sakai",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Hyogo",
-    "districts": "Akashi, Sanda, Awaji",
-    "publish": "Yes",
-    "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7212,10 +7219,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Okayama",
-    "districts": "Okayama, Kurashiki",
-    "publish": "Yes",
-    "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7246,7 +7250,7 @@
     "districts": "ShikokuChuo, Saijo",
     "publish": "Yes",
     "datestart": "2026-08-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7256,7 +7260,7 @@
     "districts": "Yonago, Sakaiminato",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7266,7 +7270,7 @@
     "districts": "Izumo, Matsue",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7276,17 +7280,14 @@
     "districts": "Shmonoseki, Hagi",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Hiroshima",
-    "districts": "Mihara, Higashi-Hiroshima",
-    "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7296,7 +7297,7 @@
     "districts": "Kurume, Chikugo, Tamana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7338,7 +7339,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Miyazaki",
-    "districts": "Miyazaki",
     "publish": "No"
   },
   {
@@ -9119,21 +9119,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Northern Mindanao",
-    "districts": "Iligan",
+    "region": "Bicol",
+    "districts": "Legazpi City",
     "publish": "Yes",
-    "datestart": "2026-10-08T07:00:00.000Z",
-    "dateend": "2026-10-24T07:00:00.000Z"
+    "datestart": "2026-10-23T07:00:00.000Z",
+    "dateend": "2026-11-06T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Northern Mindanao",
-    "districts": "Ozamiz",
+    "region": "Bicol",
+    "districts": "Caramoan (car in transit)",
     "publish": "Yes",
-    "datestart": "2026-10-12T07:00:00.000Z",
-    "dateend": "2026-10-24T07:00:00.000Z"
+    "datestart": "2026-11-03T08:00:00.000Z",
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11688,7 +11688,7 @@
     "districts": "Pathun thani, Nonthaburi, Nakhon pathum, Chainat",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Thailand",
@@ -11698,7 +11698,7 @@
     "districts": "Ratchaburi, Phetchaburi,, Chonburi, Rayong, Surin, Khonkean, Phitsanulok, Lumpang, Chaiyaphum, Chiang Mai",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Tunisia",
