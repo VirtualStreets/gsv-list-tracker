@@ -3509,7 +3509,7 @@
     "code": "CA",
     "region": "Ontario",
     "districts": "Addington, Carleton, Dundas, Frontenac, Glengarry, Grenville, Hastings, Lanark, Leeds, Lennox, Prescott, Prince Edward, Renfrew, Russell, Stormont, Dufferin, Durham, Halton, Haliburton, Lincoln, Peel, Niagara, Ontario, Northumberland, Peterborough, Simcoe, Welland, Wentworth, York, Victoria, Brant, Bruce, Elgin, Essex, Grey, Haldimand, Huron, Kent, Lambton, Middlesex, Norfolk, Oxford, Perth, Waterloo, Wellington, Algoma, Manitoulin, Nipissing, Parry Sound, Sudbury, Temiskaming, Thunder Bay, Muskoka, Kenora, Mississauga, Brampton, Etobicoke, Downtown, Kitchener, Waterloo, Cambridge, Hamilton, Georgetown, MIlton, Barrie, Collingwood",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3518,7 +3518,7 @@
     "code": "CA",
     "region": "British Columbia",
     "districts": "Alberni-Clayoquot, Mount Waddington, Strathcona, Comos Valley, Nanaimo, Cowichan Valley, Capital, Great Vancouver, Fraser Valley, Powell River, East Kootenay, Central Kooteney, Kooteney Boundary, Thompson-Nicola, Columbia-Shuswap, Kitimat-Stikine, Stikine, Northern Rockies, Peace River, Bulkley-Nechako, Skeena-Queen Charlotte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3527,7 +3527,7 @@
     "code": "CA",
     "region": "New Brunswick",
     "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3536,7 +3536,7 @@
     "code": "CA",
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3554,7 +3554,7 @@
     "code": "CA",
     "region": "Nova Scotia",
     "districts": "Digby, Yarmouth, Shelburne, Annapolis, Cape Breton, Richmond, Antigonish, Guysborough, Pictou, Halifax",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3563,7 +3563,7 @@
     "code": "CA",
     "region": "Québec",
     "districts": "Nord-du-Québec, Abitibi-Ouest, Abitibi, Rouyn-Noranda, Antoine-Labelle, Matawinie, Coaticook, Memphrémagog, Le Haut-Saint-François, Le Val-Saint-François, Sherbrooke, Le Granit, Beauce-Sartigan, Robert-Cliche, Les Etchemins, Montmagny, L’Islet, Mirabel, Argenteuil, La Rivière-du-Nord, Les Pays-d’en-Haut, Les Laurentides, Rivière-du-Loup, Kamouraska, Les Basques, Rimouski-Neigette, La Mitis, La Côte-de-Gaspé, Le Rocher-Perce, Bona-venture, Le Haut-Saint-Maurice, Le Domaine-du-Roy, Maria-Chapdelaine, Lac-Saint-Jean-Est, Le Fjord-du-Saguenay, La Haute-Côte-Nord, Manicouagan, Minganie – Basse-Côte-Nord",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3572,16 +3572,16 @@
     "code": "CA",
     "region": "Alberta",
     "districts": "Pincher Creek, Cardston, Warner, Forty Mile, Cypress, Taber, Lethbridge, Willow Creek, Ranchland, Red Deer, Mountain View, Kneehill, Rocky View, Wheatland, Starland, Newell, Lacombe, Clearwater, Yellowhead, Brazeau, Provost, Grand Prairie, Saddle Hills, Spirit River, Fairview, Clear Hills, Northern Lights, Big Lakes, Lesser Slave River, Woodlands, Opportunity, Athabasca, Bonnyville, Smoky Lake, St. Paul, Lamont, Two Hills, Minburn, Beaver, Flagstaff, Wainwright, Vermillion River, Mackenzie County",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Canada",
     "code": "CA",
     "region": "Manitoba",
     "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman, Dauphin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3590,7 +3590,7 @@
     "code": "CA",
     "region": "Saskatchewan",
     "districts": "Saskatoon, Regina, Yorkton, Melville, Estevan, Weyburn",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3608,7 +3608,7 @@
     "code": "CA",
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -4145,7 +4145,7 @@
     "svspc": "SV",
     "region": "Comunidad de Madrid",
     "districts": "Madrid, Alcalá de Henares, Alcobendas, Alcorcón, Aranjuez, Arganda del Rey, Collado Villalba, Colmenar Viejo, Coslada, Fuenlabrada, Getafe, Leganés, Majadahonda, Móstoles, Navalcarnero, Parla, San Lorenzo de El Escorial, Torrejón de Ardoz, Torrelaguna, Valdemoro and Valdaracete",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4155,7 +4155,7 @@
     "svspc": "SV",
     "region": "Cataluña",
     "districts": "Barcelona, Terragona, Badalona, Terrassa, Mataró, Palamós, Leída, Girona, Figueres, Manresa, Reus, Balaguer, Vic, Tárrega, Mollerussa, Amposta, Lloret de mar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4165,7 +4165,7 @@
     "svspc": "SV",
     "region": "Andalucía",
     "districts": "Sevilla, Cádiz, Málaga, Algeciras, Ceuta, Granada, Cordoba, Almeria, Roquetas de mar, Jeres de la frontera, Huelva, Dos hermanas, Antequera, Lucena, Montilla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4175,7 +4175,7 @@
     "svspc": "SV",
     "region": "Melilla",
     "districts": "Melilla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4185,7 +4185,7 @@
     "svspc": "SV",
     "region": "Comunidad Valenciana",
     "districts": "Castellón, Valencia, Alicante, Elche, Caudete, Villena, Sagunto, Alzira, Gandía, Denia, Calp, Benidorm, Torrevieja",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4195,7 +4195,7 @@
     "svspc": "SV",
     "region": "Galicia",
     "districts": "La Coruña, Lugo, Pontevedra, Orense, Vigo, Foz, O Barco, Santiago de Compostela, Vilalba, O Poriño, Chantada",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4205,7 +4205,7 @@
     "svspc": "SV",
     "region": "Principado de Asturias",
     "districts": "Asturias, Gijon, Oviedo, Aviles, Llanes",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4215,7 +4215,7 @@
     "svspc": "SV",
     "region": "Cantabria",
     "districts": "Santander, Torrelavega, San Vicente de la barquera, Laredo, Santoña, Reinosa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4225,7 +4225,7 @@
     "svspc": "SV",
     "region": "País Vasco",
     "districts": "Bilbao, San Sebastian, Zarautz, Getxo, Vitoria-Gasteiz, Amurillo, Arrasate, Bergara, Tolosa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4235,7 +4235,7 @@
     "svspc": "SV",
     "region": "Comunidad Foral de Navarra",
     "districts": "Navarra, Pamplona, Isaba, Alfaro, Tudela",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4245,7 +4245,7 @@
     "svspc": "SV",
     "region": "Islas Canarias",
     "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4255,7 +4255,7 @@
     "svspc": "SV",
     "region": "La Rioja",
     "districts": "La Rioja, Logroño, Nájera, Arnedo, Calahorra,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4265,7 +4265,7 @@
     "svspc": "SV",
     "region": "Aragón",
     "districts": "Huesca, Zaragoza, Teruel, Calatayud, Barbastro, Binéfar,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4275,7 +4275,7 @@
     "svspc": "SV",
     "region": "Castilla y León",
     "districts": "Burgos, Leon, Salamanca, Valladolid, Palencia, Soria, León, Sahagún, Segovia, Béjar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4285,7 +4285,7 @@
     "svspc": "SV",
     "region": "Castilla la Mancha",
     "districts": "Albacete, Ciudad real, Toledo, Manzanares, Valdepeñas, Madridejos, Villarobledos, Hellín, Almansa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4295,7 +4295,7 @@
     "svspc": "SV",
     "region": "Extremadura",
     "districts": "Cáceres, Badajoz, Plasencia, Navalmoral de la Mata, Trujillo, Montijo, Olivenza, Jerez de los caballeros, Zafra, Villafranca de los barros, Mérida, Miajadas, Guadalupe, Alcantara, Hervás, Arroyo de la luz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4305,7 +4305,7 @@
     "svspc": "SV",
     "region": "Región de Murcia",
     "districts": "Murcia, Mazarrón, Cartagena, Burras, Albox",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4315,7 +4315,7 @@
     "svspc": "SV",
     "region": "Islas Baleares",
     "districts": "Mallorca, Palma, Campos, Llucmajor, Calviá, Alaró, Palma de nova",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
@@ -4635,7 +4635,7 @@
     "svspc": "SV",
     "region": "Île-de-France",
     "districts": "Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4645,7 +4645,7 @@
     "svspc": "SV",
     "region": "Hauts-de-France",
     "districts": "Nord, Pas-de-Calais, Somme, Oise, Aisne.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4655,7 +4655,7 @@
     "svspc": "SV",
     "region": "Grand Est",
     "districts": "Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4665,7 +4665,7 @@
     "svspc": "SV",
     "region": "Bretagne",
     "districts": "Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4675,7 +4675,7 @@
     "svspc": "SV",
     "region": "Bourgogne-Franche-Comté",
     "districts": "Côte-d'Or, Doubs, Jura, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4685,7 +4685,7 @@
     "svspc": "SV",
     "region": "Nouvelle Aquitaine",
     "districts": "Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Charente, Charente-Maritime, Vienne, Deux-Sèvres, Haute-Vienne, Creuse, Corrèze.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4695,7 +4695,7 @@
     "svspc": "SV",
     "region": "Provence-Alpes-Côte d'Azur",
     "districts": "Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4705,7 +4705,7 @@
     "svspc": "SV",
     "region": "Normandie",
     "districts": "Calvados, Eure, Manche, Orne, Seine-Maritime.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4715,7 +4715,7 @@
     "svspc": "SV",
     "region": "Pays de la Loire",
     "districts": "Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4725,7 +4725,7 @@
     "svspc": "SV",
     "region": "Centre-Val de Loire",
     "districts": "Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4735,7 +4735,7 @@
     "svspc": "SV",
     "region": "Auvergne-Rhône-Alpes",
     "districts": "Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -4745,7 +4745,7 @@
     "svspc": "SV",
     "region": "Occitanie",
     "districts": "Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-18T08:00:00.000Z",
     "dateend": "2026-11-12T08:00:00.000Z"
   },
@@ -6074,7 +6074,7 @@
     "districts": "Samarinda, Tenggarong, Bontang, Nunukan, Rantau Panjang, Tanjungndereb",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6084,7 +6084,7 @@
     "districts": "Sampit, Palangkaraya, Pangkalan Bun",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6094,7 +6094,7 @@
     "districts": "Balikpapan, Banjarmasin, Pelaihari, Longkali",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6951,10 +6951,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Hokkaido",
-    "districts": "Asahikawa, Wakkanai, Abashiri",
-    "publish": "Yes",
-    "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6962,9 +6959,7 @@
     "svspc": "SV",
     "region": "Aomori",
     "districts": "Hachinohe, Towada, Aomori",
-    "publish": "Yes",
-    "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6972,9 +6967,7 @@
     "svspc": "SV",
     "region": "Akita",
     "districts": "Yurihonjyo, Daisen",
-    "publish": "Yes",
-    "datestart": "2026-07-01T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6989,9 +6982,7 @@
     "svspc": "SV",
     "region": "Fukushima",
     "districts": "Fukushima, Koriyama, Iwaki",
-    "publish": "Yes",
-    "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7096,7 +7087,7 @@
     "districts": "Nagano, Matsumoto",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7106,7 +7097,7 @@
     "districts": "Jyoetsu, Niigata, Sanjyo",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7116,7 +7107,7 @@
     "districts": "Fukui, Sabae",
     "publish": "Yes",
     "datestart": "2026-08-31T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7126,7 +7117,7 @@
     "districts": "Toyama, Takaoka",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9119,21 +9110,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Bicol",
-    "districts": "Legazpi City",
+    "region": "Calabarzon",
+    "districts": "Calauag",
     "publish": "Yes",
-    "datestart": "2026-10-23T07:00:00.000Z",
-    "dateend": "2026-11-06T08:00:00.000Z"
+    "datestart": "2026-11-10T08:00:00.000Z",
+    "dateend": "2026-11-12T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Bicol",
-    "districts": "Caramoan (car in transit)",
+    "region": "Calabarzon",
+    "districts": "Nasugbu",
     "publish": "Yes",
-    "datestart": "2026-11-03T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "datestart": "2026-11-09T08:00:00.000Z",
+    "dateend": "2026-11-16T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11695,7 +11686,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, West, North, Northeastern, South, East",
-    "districts": "Ratchaburi, Phetchaburi,, Chonburi, Rayong, Surin, Khonkean, Phitsanulok, Lumpang, Chaiyaphum, Chiang Mai",
+    "districts": "Mae Hong Son ,Chiang Rai, Phetchaburi, Chonburi, Rayong, Surin, Khonkean, Phitsanulok, Lumpang, Phrae, Chiang Mai",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11909,7 +11900,7 @@
     "svspc": "SV",
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-13T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -11919,7 +11910,7 @@
     "svspc": "SV",
     "region": "Iowa",
     "districts": "Osceola, Dickinson, Emmet, Palo Alto, Kossuth, Pocahontas, Humboldt, Calhoun, Webster, Woodbury, Ida, Crawford, Monona, Plymouth, Cherokee, Buena Vista, Sac, Carroll, Cerro Gordo, Worth, Mitchell, Floyd, Howard, Chickasaw, Winneshiek, Clayton, Fayette, Dubuque, Jackson, Jones, Delaware, Clinton, Scott, Cedar, Johnson, Iowa, Benton, Linn, Lee, Davis, Wapello, Jefferson, Keokuk, Mahaska, Washington, Muscatine, Tama, Marshall, Hardin, Grundy, Hamilton, Wright, Boone, Greene, Webster",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -11941,7 +11932,7 @@
     "districts": "Rockingham, Strafford, Sullivan, Grafton, Coos, Carroll",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11961,7 +11952,7 @@
     "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee, McHenry, Boone, Montgomery, Bond, Fayette, Christian, Shelby, Crawford, Jasper, Effingham, Clay, Wayne, Jefferson, Marion, Clinton, Adams, Pike, Brown, Schuyler, Hancock, McDonough, Pike, Greene, Scott, Morgan, Iroquois, Vermillion",
     "publish": "Yes",
     "datestart": "2026-03-09T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11999,9 +11990,9 @@
     "svspc": "SV",
     "region": "Oregon",
     "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa, Columbia, Linn, Polk, Umatilla, Union",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-03-09T07:00:00.000Z",
-    "dateend": "2026-12-01T08:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12011,7 +12002,7 @@
     "districts": "Kittson, Roseau, Marshall, Polk, Pennington, Red Lake, Mahnomen, Clay, Becker, Clearwater, Hubbard, Wadena, Otter Trail, Wilkin, Traverse, Big Stone, Chippewa, Swift, Stevens, Grant, Douglas, Pope, Kandiyohi, Stearns, Todd, Cass, Beltrami, Koochiching, St. Louis, Lake, Cook, Pipestone, Murray, Rock, Nobles, Jackson, Cottonwood, Brown, Watonwan, Martin, Blue Earth, Faribault, Nicollet, Le Sueur, Freeborn, Mower, Fillmore, Olmsted, Dodge, Winona, Dakota, Hennepin, Ramset, Washington, Chisago, Anoka, Isanti, Sherburne, Houston",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12031,7 +12022,7 @@
     "districts": "St. Croix, Pierce, Dunn, Pepin, Barron, Rusk, Chippewa, Eau Claire, Taylor, Clark, Jackson, La Crosse, Monroe, Vilas, Forest, Oneida, Lincoln, Langlade, Marathon, Menominee, Shawano, Waupaca, Portage, Oconto, Outagamie, Brown, Winnebago, Calumet, Manitowoc, Fond Du Lac, Shebogan, Dodge, Washington, Ozaukee, Jefferson, Waukesha, Milwaukee, Walworth, Racine, Kenosha, Rock, Green, Dane, Grant, Lafayette, Iowa, Crawford, Richland, Sauk, Juneau, Adams, Monroe",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12069,7 +12060,7 @@
     "svspc": "SV",
     "region": "Washington",
     "districts": "Clallam, Jefferson, Grays Harbor, Pacific, Wahkiakum, Whatcom, Skagit, Snohomish, King, Pierce, Kitsap, Thurston, Lewis, Yakima, Skamania, Cowlitz, Clark, Klickitat, Whitman, Asotin, Chelan, Kitttitas, Douglas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -12081,7 +12072,7 @@
     "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham, Norwich",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12091,7 +12082,7 @@
     "districts": "Wicomico, Dorchester, Caroline, Baltimore, Carroll, Frederick, Washington, Cecil, Harford",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12101,7 +12092,7 @@
     "districts": "Essex, Middlesex, Suffolk, Norfolk, Barnstable, Plymouth",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12111,7 +12102,7 @@
     "districts": "Wexford, Manistee, Mason, Lake, Osceola, Oceana, Newaygo, Muskegon, Ottawa, Kent, Allegan, Calhoun, Eaton, Ingham, Jackson, Branch, Hillsdale, Lenawee, Clinton, Gratiot, Saginaw, Shiawassee, Genesee, Oakland, Wayne, Macomb, Tuscola, Sanilac, Huron, St. Clair, Arenac, Iosco, Ogemaw, Roscommon, Clare, Gladwin, Missaukee, Oscoda, Alcona, Montmorency, Alpena, Presque Isle, Cheboygan, Emmet, Charlevoix, Otsego, Mackinac, Chippewa, Luce, Alger, Schoolcraft, Keweenaw, Houghton, Baraga, Ontonagon, Gogebic, Iron, Dickinson, Marquette",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12121,7 +12112,7 @@
     "districts": "Warren, Hunterdon, Mercer, Morris, Sussex, Middlesex, Monmouth, Union, Essex, Bergen, Hudson",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12131,7 +12122,7 @@
     "districts": "Suffolk, Nassau, Kings, Richmond, New York, Queens, Bronx, Westchester, Rockland, Sullivan, Delaware, Ulster, Greene, Orange, Schoharie, Otsego, Montgomery, Herkimer, Fulton, Tompkins, Cortland, Broome, Tioga, Schuyler, Allegany, Cattaraugus, Chautauqua, Erie, Wyoming, Genesee, Orleans, Monroe, Livingston, Ontario, Seneca, Wayne, St. Lawrence, Jefferson, Franklin, Lewis, Oneida, Hamilton",
     "publish": "Yes",
     "datestart": "2026-03-23T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12141,7 +12132,7 @@
     "districts": "Lawrence, Scioto, Gallia, Jackson, Adams, Pike, Brown, Highland, Clermont, Hamilton, Butler, Warren, Clinton, Fayette, Ross, Pickaway, Madison, Franklin, Preble, Montgomery, Darke, Miami, Shelby, Greene, Clark, Champaign, Logan, Mercer, Auglaize, Williams, Defiance, Henry, Fulton, Lucas, Wood, Ottawa, Sanduasky, Seneca, Hancock, Wyandot, Crawford, Erie, Huron, Richland, Ashland, Lorain, Medina, Wayne, Cuyahoga, Geauga, Lake, Ashtabula, Trumbull, Portage, Mahoning, Columbiana, Stark, Carroll, Holmes, Putnam, Allen, Vinton",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12151,7 +12142,7 @@
     "districts": "Erie, Crawford, Mercer, Lawrence, Butler, Beaver, Allegheny, Venango, Warren, Forest, Clarion, Jefferson, Elk, McKean, Cameron, Potter, Clinton, Tioga, Lycoming, Wayne, Pike, Lehigh, Northampton, Bucks, Philadelphia, Montgomery, Delaware, Chester, Lancaster, York, Adams, Cumberland, Franklin, Somerset, Westmoreland, Fayette",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12161,7 +12152,7 @@
     "districts": "Lee, Wise, Norton, Scott, Dickenson, Buchanan, Russell, Washington, Tazewell, Smyth, Bland, Wythe, Carroll, Giles, Radford, Pulaski, Grayson, Patrick, Floyd, Giles, Montgomery, Craig, Highland, Bath, Augusta, Rockingham, Harrisonburg, Shenandoah, Frederick, Worchester, Clarke, Warren, Rappahannock, Fauquier, Loudoun, Fairfax, Prince William, Isle of Wight, Surry, Sussex, Southampton, Newport News, Hampton, Poquoson, York, James City, Gloucester, New Kent, King William, King and Queen, Essex, Fredericksburg, Stafford, Spotsylvania, King George, Caroline",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12281,7 +12272,7 @@
     "districts": "Wayne, Cabell, Lincoln, McDowell, Wyoming, Mercer, Raleigh, Summers, Pendleton, Randolph, Pocahontas, Webster, Upshur, Braxton, Clay, Kanawha, Nicholas, Berkley, Jefferson, Calhoun",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12301,7 +12292,7 @@
     "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach, Aberdeen, Sioux Falls",
     "publish": "Yes",
     "datestart": "2026-06-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12339,9 +12330,9 @@
     "svspc": "SV",
     "region": "Colorado",
     "districts": "Colorado Springs, Teller, Park, Lake, Eagle, Summit, Clear Creek, Jefferson, Douglas, El Paso, Elbert, Arapahoe, Denver, Adams, Boulder, Gilpin, Weld, Prowers, Bent, Baca, Kiowa, Pueblo, Freemont, Custer, Montrose, Ouray, San Miguel, San Juan, Dolores, Rio Blanco, Moffat, Garfield, Jackson, Larimer, Weld, Boulder, Gilpin, Las Animas, Costila",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12351,7 +12342,7 @@
     "districts": "Lake, Porter, Newton, Jasper, Benton, Warren, LaPorte, Franklin, Fayette, Union, Wayne, Henry, Randolph, Delaware, Jay, Blackford, Madison, Hancock, Marion, Hamilton, Boone, Clinton, Tipton, Howard, Shelby, Johnson, Brown, Bartholomew, Jackson, Hendricks, Morgan, Lawrence, Monroe, Martin, Grant",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12391,7 +12382,7 @@
     "districts": "DC",
     "publish": "Yes",
     "datestart": "2026-05-18T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12399,7 +12390,7 @@
     "svspc": "SV",
     "region": "Delaware",
     "districts": "New Castle, Kent, Sussex",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
